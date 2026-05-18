@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>내 첫 웹사이트</title>
+    <style>
+        body { text-align: center; background-color: #f0f0f0; }
+        h1 { color: blue; }
+    </style>
+</head>
+<body>
+    <h1>안녕, GitHub!</h1>
+    <p>메모장 대신 에디터를 쓰면 코딩이 더 재밌어져요.</p>
+</body>
+</html>
